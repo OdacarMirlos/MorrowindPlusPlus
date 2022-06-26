@@ -149,6 +149,19 @@ The original mod has a lot of great ideas but was never finished or fixed. Other
 * Files to install:
   * **Caverns Overhaul - Fixed**
 
+⭐ [**Darknut's Lighted Dwemer Towers**](https://www.nexusmods.com/morrowind/mods/51358) by [Darknut](https://www.nexusmods.com/morrowind/users/137283)\
+Adds Lighted Windows to Dwemer ruins
+
+[**Darknut's Greater Dwemer Ruins. Greater Dwemer Interiors**](https://www.nexusmods.com/morrowind/mods/45331) by [Darknut](https://www.nexusmods.com/morrowind/users/137283)\
+Darknut's Greater Dwemer Ruins, Greater Dwemer Interiors 1.4
+
+[**Darknut's Greater Dwemer Ruins version 1.2**](https://www.nexusmods.com/morrowind/mods/43544) by [Darknut](https://www.nexusmods.com/morrowind/users/137283)\
+This mod affects Dwemer ruins “Odrosal”,” Vemynal” & “Dagoth Ur” in Main Quest timeline, and it is my attempt to make the quest to find Kagrenac’s Tools and destroy Dagoth Ur a much more involved task.
+
+* Files to install:
+  * **DN-GDRv1.** (Main Files)
+  * **DN_GDRv1.2.1** (Main Files)
+
 ## Ascadian Isles
 
 ⭐ [**Concept Arts plantations**](https://www.nexusmods.com/morrowind/mods/50020)\
