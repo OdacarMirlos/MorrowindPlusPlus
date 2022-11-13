@@ -639,6 +639,9 @@ A West Gash tree replacer for players who desire a look closer to the vanilla ga
 
 [**URH - Ald Velothi**](https://www.nexusmods.com/morrowind/mods/51590) by [mwgek](https://www.nexusmods.com/morrowind/users/4462276)\
 An overhaul of the Ald Velothi outpost to give it a unique look. 
+{% hint style="warning" %}
+This mod is already included in **Beautiful Cities of Morrowind**
+{% endhint %}
 
 [**The Island - Aln'Baldrahn**](https://www.nexusmods.com/morrowind/mods/43187) by [MelchiorDahrk](https://www.nexusmods.com/morrowind/users/962116)\
  This mod adds a beautiful new island to the West Gash Region near Khuul. I actually made this mod as my interior/exterior showcase for the Tamriel Rebuilt project but I spent so much time on it and I liked it so much that I thought I would release it here for others to enjoy.
